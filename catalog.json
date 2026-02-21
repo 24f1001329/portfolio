@@ -4,30 +4,30 @@
     "version": "7da1535f"
   },
   "products": [
-    {"id": 1, "name": "Football", "category": "sports", "price": 499.99, "stock": 50, "rating": 4.5},
-    {"id": 2, "name": "Cricket Bat", "category": "sports", "price": 1599.50, "stock": 20, "rating": 4.6},
-    {"id": 3, "name": "Tennis Racket", "category": "sports", "price": 2499.00, "stock": 15, "rating": 4.4},
-    {"id": 4, "name": "Running Shoes", "category": "sports", "price": 1999.83, "stock": 20, "rating": 4.7},
+    {"id": "prod-7da1535f-001", "name": "Football", "category": "sports", "price": 499.99, "stock": 50, "rating": 4.5},
+    {"id": "prod-7da1535f-002", "name": "Cricket Bat", "category": "sports", "price": 1599.50, "stock": 20, "rating": 4.6},
+    {"id": "prod-7da1535f-003", "name": "Tennis Racket", "category": "sports", "price": 2499.00, "stock": 15, "rating": 4.4},
+    {"id": "prod-7da1535f-004", "name": "Running Shoes", "category": "sports", "price": 1999.83, "stock": 20, "rating": 4.7},
 
-    {"id": 5, "name": "Laptop", "category": "electronics", "price": 55999.00, "stock": 5, "rating": 4.8},
-    {"id": 6, "name": "Mouse", "category": "electronics", "price": 499.00, "stock": 100, "rating": 4.3},
-    {"id": 7, "name": "Keyboard", "category": "electronics", "price": 1299.00, "stock": 50, "rating": 4.4},
-    {"id": 8, "name": "Monitor", "category": "electronics", "price": 8999.00, "stock": 10, "rating": 4.6},
-    {"id": 9, "name": "Headphones", "category": "electronics", "price": 1999.00, "stock": 30, "rating": 4.2},
+    {"id": "prod-7da1535f-005", "name": "Laptop", "category": "electronics", "price": 55999.00, "stock": 5, "rating": 4.8},
+    {"id": "prod-7da1535f-006", "name": "Mouse", "category": "electronics", "price": 499.00, "stock": 100, "rating": 4.3},
+    {"id": "prod-7da1535f-007", "name": "Keyboard", "category": "electronics", "price": 1299.00, "stock": 50, "rating": 4.4},
+    {"id": "prod-7da1535f-008", "name": "Monitor", "category": "electronics", "price": 8999.00, "stock": 10, "rating": 4.6},
+    {"id": "prod-7da1535f-009", "name": "Headphones", "category": "electronics", "price": 1999.00, "stock": 30, "rating": 4.2},
 
-    {"id": 10, "name": "T-shirt", "category": "fashion", "price": 499.00, "stock": 100, "rating": 4.1},
-    {"id": 11, "name": "Jeans", "category": "fashion", "price": 1499.00, "stock": 40, "rating": 4.3},
-    {"id": 12, "name": "Jacket", "category": "fashion", "price": 2999.00, "stock": 25, "rating": 4.5},
-    {"id": 13, "name": "Sneakers", "category": "fashion", "price": 2499.00, "stock": 30, "rating": 4.6},
-    {"id": 14, "name": "Cap", "category": "fashion", "price": 299.00, "stock": 80, "rating": 4.0},
+    {"id": "prod-7da1535f-010", "name": "T-shirt", "category": "fashion", "price": 499.00, "stock": 100, "rating": 4.1},
+    {"id": "prod-7da1535f-011", "name": "Jeans", "category": "fashion", "price": 1499.00, "stock": 40, "rating": 4.3},
+    {"id": "prod-7da1535f-012", "name": "Jacket", "category": "fashion", "price": 2999.00, "stock": 25, "rating": 4.5},
+    {"id": "prod-7da1535f-013", "name": "Sneakers", "category": "fashion", "price": 2499.00, "stock": 30, "rating": 4.6},
+    {"id": "prod-7da1535f-014", "name": "Cap", "category": "fashion", "price": 299.00, "stock": 80, "rating": 4.0},
 
-    {"id": 15, "name": "Notebook", "category": "stationery", "price": 99.00, "stock": 200, "rating": 4.2},
-    {"id": 16, "name": "Pen Pack", "category": "stationery", "price": 199.00, "stock": 150, "rating": 4.1},
-    {"id": 17, "name": "Marker Set", "category": "stationery", "price": 349.00, "stock": 60, "rating": 4.0},
-    {"id": 18, "name": "Highlighter", "category": "stationery", "price": 149.00, "stock": 90, "rating": 4.1},
+    {"id": "prod-7da1535f-015", "name": "Notebook", "category": "stationery", "price": 99.00, "stock": 200, "rating": 4.2},
+    {"id": "prod-7da1535f-016", "name": "Pen Pack", "category": "stationery", "price": 199.00, "stock": 150, "rating": 4.1},
+    {"id": "prod-7da1535f-017", "name": "Marker Set", "category": "stationery", "price": 349.00, "stock": 60, "rating": 4.0},
+    {"id": "prod-7da1535f-018", "name": "Highlighter", "category": "stationery", "price": 149.00, "stock": 90, "rating": 4.1},
 
-    {"id": 19, "name": "Coffee Mug", "category": "home", "price": 299.00, "stock": 70, "rating": 4.3},
-    {"id": 20, "name": "Table Lamp", "category": "home", "price": 1299.00, "stock": 25, "rating": 4.4}
+    {"id": "prod-7da1535f-019", "name": "Coffee Mug", "category": "home", "price": 299.00, "stock": 70, "rating": 4.3},
+    {"id": "prod-7da1535f-020", "name": "Table Lamp", "category": "home", "price": 1299.00, "stock": 25, "rating": 4.4}
   ],
   "aggregations": {
     "sports": {
